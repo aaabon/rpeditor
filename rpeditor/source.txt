@@ -1,4 +1,8 @@
-Jang Gwangrok (aka Mr Wolf)
-> ### `block quote text with several layers of formatting `
-> -# __Several__ underlines __test__ with small text
-He had just *coincidentally* stumbled upon K-Team's area and was just loitering around Warner's empty desk. He **absentmindedly** drew little faces on the soot ~~scattered on the desk, smirking as he did so~~. He **always** had that same stupid smirk, like he always had something funny on his mind.
+Person 1
+__ajkejrvlawe__ javwjrvaewl avwjeklrjkewa
+*short message*
+
+Person 2
+> block quote *ajwkkrlvaewj* ajvewljrklaewvraew
+## ajklevjrkleavjlkrae ajvwkeljrkla jvawklejrvklaew jakvlweraweva
+*jakevwjrklvjaelwk jravlewkjvrklaewjvlrkaewjlk vjavklwerjvlkaewjv klwaejvkrlejwavlk*
