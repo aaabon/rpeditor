@@ -70,6 +70,7 @@ def main():
 
             elif not data[i].strip('\n'):
                 writeMessage(f, message)
+                
             else:
                 # its a message so focus on message.setMessage
 

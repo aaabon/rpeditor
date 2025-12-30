@@ -11,23 +11,3 @@ He had just ''coincidentally'' stumbled upon K-Team's area and was just loiterin
 
 
 
-'''Seo-Hyuk (Aka Centipede):'''
-
-''Seo-Hyuk watches Jang, does he have no situational awareness for the last 20 minutes Seo-hyuk has been painting new "motivational" quotes for the office and Jang hasn't noticed him. Seo sighs'' "Mr Warner is currently in a darkness and won't be out for around one more day Mr Jang"
-
-
-{{Header2|a header with ''italics'' and '''''italics bold oooo'''''}}
-
-
-
-
-'''Jang Gwangrok (aka Mr Wolf):'''
-
-"Ah... okay" ''Jang answered, disappointment barely concealed in his tone. He wiped his soot-stained hands onto his shirt, which today had a large image of a can of soup plastered across the front.''
-
-
-{{Small|{{CBlock|text this is a test}}}}
-
-
-
-

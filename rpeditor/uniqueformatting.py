@@ -16,15 +16,19 @@ def addBracketsStart(string, name):
 
 def cblock(string):
     #```text``` -> {{CBlock|text}}
+    substr = "CBlock"
+    
     if not string.find("```"):
-        return addBrackets(string, "CBlock", "```")
+        return addBrackets(string, substr, "```")
     else:
         return string
     
 def code(string):
     # `text` -> {{Code|text}}
+    substr = "Code"
+
     if string.find("`") != -1:
-        return addBrackets(string, "Code", "`")
+        return addBrackets(string, substr, "`")
     else: 
         return string
     
