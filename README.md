@@ -9,13 +9,7 @@ The program has 3 major parts: main, standformatting, and uniqueformatting.
 
 EXPECTED FORMAT
 
-  the source.txt file will expect messages of the style
-  
-  Name
-  Messages
-
-  Name
-  Messages
+  Please check the given source.txt file for expected format. There should only be a blank line between messages.
 
 
 
