@@ -1,0 +1,33 @@
+'''Jang Gwangrok (aka Mr Wolf):'''
+
+{{Block|{{Header3|{{Code|block quote text with several layers of formatting }}}}}}
+
+
+{{Block|{{Small|<u>Several</u> underlines <u>test</u> with small text}}}}
+
+
+He had just ''coincidentally'' stumbled upon K-Team's area and was just loitering around Warner's empty desk. He '''absentmindedly''' drew little faces on the soot <s>scattered on the desk, smirking as he did so</s>. He '''always''' had that same stupid smirk, like he always had something funny on his mind.
+
+
+
+
+'''Seo-Hyuk (Aka Centipede):'''
+
+''Seo-Hyuk watches Jang, does he have no situational awareness for the last 20 minutes Seo-hyuk has been painting new "motivational" quotes for the office and Jang hasn't noticed him. Seo sighs'' "Mr Warner is currently in a darkness and won't be out for around one more day Mr Jang"
+
+
+{{Header2|a header with ''italics'' and '''''italics bold oooo'''''}}
+
+
+
+
+'''Jang Gwangrok (aka Mr Wolf):'''
+
+"Ah... okay" ''Jang answered, disappointment barely concealed in his tone. He wiped his soot-stained hands onto his shirt, which today had a large image of a can of soup plastered across the front.''
+
+
+{{Small|{{CBlock|text this is a test}}}}
+
+
+
+
